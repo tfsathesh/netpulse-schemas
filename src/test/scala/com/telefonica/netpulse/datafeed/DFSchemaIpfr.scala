@@ -1,5 +1,4 @@
-package com.telefonica.incas.experimental.datafeed
-
+package com.telefonica.netpulse.datafeed
 
 import org.apache.spark.sql.types._
 

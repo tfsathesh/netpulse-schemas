@@ -1,4 +1,4 @@
-package com.telefonica.incas.experimental.datafeed
+package com.telefonica.netpulse.datafeed
 
 //Please note, character 'c' is padded to the left of field name in case  1.Name starts with Number 2.Name of field is type
 object enumSchemaIpfr extends Enumeration {
